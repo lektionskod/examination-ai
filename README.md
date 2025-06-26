@@ -4,7 +4,7 @@ Nedan följer ett antal uppgifter / frågor som ni utför / svarar på efter bä
 
 Frågorna och uppgifterna i detta kapitel syftar på att få er att fundera på vilket sätt ni kan / bör använda AI i er utbildning.
 
-Era svar klistrar ni in i ett eget repo, som ni sedan lämnar in genom att maila mig länken senast den 31/8-2025. Om ert repo är privat behöver ni lägga till mig (**Santosnr6**) som collaborator.
+Era svar klistrar ni in i ett eget repo, som ni sedan lämnar in genom att maila mig (jesper.nyberg@zocom.se) länken senast den 31/8-2025. Om ert repo är privat behöver ni lägga till mig (**Santosnr6**) som collaborator.
 
 ## AI och datalogiskt tänkande
 
